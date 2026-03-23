@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	email = dev@ai-companion.com
+	name = dev
+[remote "origin"]
+	url = https://github.com/fggsgsgg/ai-companion.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
